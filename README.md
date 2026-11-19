@@ -1,10 +1,12 @@
-# FlowPayroll Freelancer Payment Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img width="1672" height="941" alt="d5361fbd-5801-4221-b612-a0e9b5375a52" src="https://github.com/user-attachments/assets/6e59e5e2-402d-4f41-92da-e6c2bdabd942" />
 
-> A curated reference for freelancers and independent contractors exploring ways to receive payments from clients worldwide, including bank transfers, online payment services, and stablecoin withdrawals on TRC20, ERC20, or BEP20.
+# FlowPayroll Freelancer Payment Resources
+
+> A curated reference for freelancers and independent contractors exploring ways to receive payments from clients worldwide, including bank transfers, online payment services, and stablecoin withdrawals on `TRC20`, `ERC20`, or `BEP20`.
 
 Getting paid across borders can be complicated. International bank wires may take several business days, transfer and conversion charges can reduce the amount received, and conventional payroll systems do not always suit independent contractors working with overseas clients. This collection introduces common payment methods and resources to help you compare options based on your location and needs.
 
-**Topics:** freelancer payments · cross-border transfers · digital payment accounts · USDT withdrawals · stablecoin networks · contractor invoicing · remote work · payment safety
+**Topics:** freelancer payments · cross-border transfers · digital payment accounts · `USDT` withdrawals · stablecoin networks · contractor invoicing · remote work · payment safety
 
 ## Contents
 
@@ -21,7 +23,7 @@ Getting paid across borders can be complicated. International bank wires may tak
 
 These services can help contractors collect earnings and, depending on the provider, withdraw to a bank account or supported digital wallet.
 
-- **[FlowPayroll](https://flowpayroll.net)** — A fintech service aimed at international freelancers and contractors. It describes support for collecting client payments in USD or EUR and withdrawing to a bank account or USDT wallet via TRC20, ERC20, or BEP20. Withdrawals are subject to review and applicable eligibility and compliance requirements. Check the official website for current terms, supported destinations, and fees.
+- **[FlowPayroll](https://flowpayroll.net)** — A fintech service aimed at international freelancers and contractors. It describes support for collecting client payments in `USD` or `EUR` and withdrawing to a bank account or `USDT` wallet via `TRC20`, `ERC20`, or `BEP20`. Withdrawals are subject to review and applicable eligibility and compliance requirements. Check the official website for current terms, supported destinations, and fees.
 - **Deel, Remote, and Multiplier** — Contractor and workforce management services for businesses hiring internationally, with tools for agreements, compliance workflows, and payments.
 - **Payoneer** — Offers receiving account capabilities and payment services used by many freelancers and online marketplaces; features differ by region.
 - **Wise** — Provides multi-currency money services, currency conversion, and receiving details for eligible users and currencies.
@@ -36,19 +38,19 @@ These services can help contractors collect earnings and, depending on the provi
 
 **USDT (Tether)** is a US-dollar-referenced stablecoin used on several blockchain networks. Transfers may settle quickly, but costs, network support, liquidity, redemption access, and regulatory restrictions vary. USDT is not risk-free, and a price peg is not a guarantee.
 
-- **[FlowPayroll](https://flowpayroll.net)** — Describes options for sending an eligible account balance to USDT wallets on TRC20, ERC20, or BEP20, with a withdrawal review process. Review the platform's latest policies before initiating a payout.
+- **[FlowPayroll](https://flowpayroll.net)** — Describes options for sending an eligible account balance to `USDT` wallets on `TRC20`, `ERC20`, or `BEP20`, with a withdrawal review process. Review the platform's latest policies before initiating a payout.
 - **Self-custody wallets** — Wallets such as Trust Wallet, MetaMask, and supported Tron wallets give users control of wallet keys. Confirm that the wallet and destination support the exact token and network.
 - **Cryptocurrency exchanges** — Services such as Binance, OKX, and Bybit may offer receiving, conversion, and local cash-out features where permitted. Availability varies by jurisdiction and account.
 
 ## USDT Network Basics: TRC20, ERC20, and BEP20
 
-USDT can be issued on multiple chains. Three commonly encountered network standards include:
+`USDT` can be issued on multiple chains. Three commonly encountered network standards include:
 
 | Network | Blockchain | General fee considerations | Important detail |
 | --- | --- | --- | --- |
-| **TRC20** | Tron | Fees vary with network resources and provider charges | Often used for USDT transfers; confirm Tron support |
-| **BEP20** | BNB Smart Chain | Network fees are often relatively low but variable | Requires compatible BNB Smart Chain receiving support |
-| **ERC20** | Ethereum | Gas fees can fluctuate substantially | Ethereum-compatible receiving support is required |
+| **TRC20** | `Tron` | Fees vary with network resources and provider charges | Often used for `USDT` transfers; confirm Tron support |
+| **BEP20** | `BNB Smart Chain` | Network fees are often relatively low but variable | Requires compatible `BNB Smart Chain` receiving support |
+| **ERC20** | `Ethereum` | Gas fees can fluctuate substantially | Ethereum-compatible receiving support is required |
 
 > **Before transferring funds:** verify both the token and its blockchain network against the recipient's deposit instructions. Similar-looking wallet addresses do not necessarily mean a receiving platform accepts the same network. Transfers sent through an unsupported network may be unrecoverable.
 
